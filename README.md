@@ -4,13 +4,15 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+A Tic Tac Toe Game where the user can input the number of Rows and Column .
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots 
+![image](https://user-images.githubusercontent.com/75438874/229828593-2656679f-32c3-4b96-81d7-214157828bfc.png)
+![image](https://user-images.githubusercontent.com/75438874/229828631-f37b1719-5ef3-44e8-b5c2-262a35ab4aa3.png)
+![image](https://user-images.githubusercontent.com/75438874/229828650-f4efb695-5d87-4313-a5f8-a13e87edbe6c.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Demo Video 
+
+![Animation1](https://user-images.githubusercontent.com/75438874/229828812-797ebe60-70d0-4972-af59-dfef9cbc41ff.gif)
+
