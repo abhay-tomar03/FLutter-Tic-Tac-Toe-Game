@@ -4,7 +4,24 @@ A new Flutter project.
 
 ## Getting Started
 
+This project is a starting point for a Flutter application.
+
+
 A Tic Tac Toe Game where the user can input the number of Rows and Column .
+
+Steps to use:
+
+1- Setup Flutter
+
+2- Clone the repo
+
+3-Install dependencies
+
+$ flutter pub get
+4- Run App
+
+$ flutter run
+
 
 ## Screenshots 
 ![image](https://user-images.githubusercontent.com/75438874/229828593-2656679f-32c3-4b96-81d7-214157828bfc.png)
